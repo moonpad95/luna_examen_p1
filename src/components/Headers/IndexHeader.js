@@ -37,11 +37,12 @@ function IndexHeader() {
           <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/foto.webp")}
+              style={{borderRadius: "50%"}}
+              src={require("assets/img/luna.jpeg")}
             ></img>
         
             <h1 className="h1-seo">UNIVERSIDAD TECNOLÓGICA DE DURANGO</h1>
-            <h2>ALUMNO:PEREZ SOSA JUAN</h2>
+            <h2>ALUMNO:LUNA HERNANDEZ JOSE LUIS</h2>
             <h3>GESTIÓN DE PROYECTOS DE SOFTWARE</h3>
           </div>
           <h6 className="category category-absolute">
